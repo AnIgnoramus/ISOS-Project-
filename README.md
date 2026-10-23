@@ -2,7 +2,7 @@
 The Isos One Invariant Field Engine architecture - Freedom of Truthful Knowledge for All. 
 # Project Laplace: The Isos One Invariant Field Engine
 
-[![License: MIT](https://shields.io)](https://opensource.org)
+[License: MIT](https://shields.io)(https://opensource.org)
 
 Project Laplace (Isos One) is a scale-invariant, decentralized computing architecture designed to run error-free artificial intelligence natively on consumer-grade classical hardware. By swapping continuous, brute-force floating-point matrices for a discrete 27-operator triadic matrix derived from the finite group $\mathcal{F}_{432}$, this engine eliminates infinity spikes, hallucinations, and gradient collapse at the core mathematical layer.
 
