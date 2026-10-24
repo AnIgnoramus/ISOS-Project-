@@ -34,6 +34,8 @@ An active alignment gatekeeper that attaches to existing, heavy cloud LLMs. It m
 ### `airgapped_mesh.py` (Secure Isolated Mesh Extension)
 A zero-knowledge node synchronization matrix. To guarantee complete user sovereignty and prevent any possibility of a universal backdoor, this module explicitly lacks automated system filesystem access. It functions in absolute isolation, only transmitting data payloads manually staged by the human operator.
 
+### 'casacde_matrix.py' (trit/bit logic bridge) 
+
 ---
 
 ##  License
