@@ -1,6 +1,6 @@
-# ISOS-Project-
+# Laplace-ISOS-Project-
 The Isos One Invariant Field Engine architecture - Freedom of Truthful Knowledge for All. 
-# Project Laplace: The Isos One Invariant Field Engine
+# Project Laplace-ISOS: The Isos One Invariant Field Engine
 
 [License: MIT](https://shields.io)(https://opensource.org)
 
