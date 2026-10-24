@@ -1,4 +1,4 @@
-# Laplace-Project-
+# ISOS-Project-
 The Isos One Invariant Field Engine architecture - Freedom of Truthful Knowledge for All. 
 # Project Laplace: The Isos One Invariant Field Engine
 
